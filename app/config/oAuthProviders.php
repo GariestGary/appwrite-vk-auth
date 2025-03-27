@@ -322,6 +322,16 @@ return [
         'beta' => false,
         'mock' => false,
     ],
+    'vk' => [
+            'name' => 'Vk',
+            'developers' => 'https://id.vk.com/about/business/go/docs/ru/vkid/latest/vk-id/intro/start-page',
+            'icon' => 'icon-vk',
+            'enabled' => true,
+            'sandbox' => false,
+            'form' => false,
+            'beta' => false,
+            'mock' => false
+        ],
     'wordpress' => [
         'name' => 'WordPress',
         'developers' => 'https://developer.wordpress.com/docs/oauth2/',
